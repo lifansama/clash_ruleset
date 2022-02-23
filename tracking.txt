@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,beacons5.gvt3.com
   - DOMAIN-SUFFIX,realtime.services.disqus.com
   - DOMAIN-SUFFIX,consent.truste.com
+  - DOMAIN-SUFFIX,g.live.com
