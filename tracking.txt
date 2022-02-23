@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,id.google.com
   - DOMAIN-SUFFIX,footprints-pa.googleapis.com
   - DOMAIN-SUFFIX,beacons5.gvt3.com
+  - DOMAIN-SUFFIX,realtime.services.disqus.com
