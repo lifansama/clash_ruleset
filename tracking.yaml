@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,googleads.g.doubleclick.net
   - DOMAIN-SUFFIX,analytics.map.qq.com
   - DOMAIN-SUFFIX,android.bugly.qq.com
+  - DOMAIN-SUFFIX,pica-web.wakamoment.tk
