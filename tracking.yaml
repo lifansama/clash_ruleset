@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,analytics.map.qq.com
   - DOMAIN-SUFFIX,android.bugly.qq.com
   - DOMAIN-SUFFIX,pica-web.wakamoment.tk
+  - DOMAIN-SUFFIX,settings-win.data.microsoft.com
