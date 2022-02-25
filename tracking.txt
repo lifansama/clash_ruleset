@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,realtime.services.disqus.com
   - DOMAIN-SUFFIX,consent.truste.com
   - DOMAIN-SUFFIX,g.live.com
+  - DOMAIN-SUFFIX,nexusrules.officeapps.live.com
