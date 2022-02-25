@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,vortex.data.microsoft.com
   - DOMAIN-SUFFIX,googleads.g.doubleclick.net
   - DOMAIN-SUFFIX,analytics.map.qq.com
+  - DOMAIN-SUFFIX,android.bugly.qq.com
