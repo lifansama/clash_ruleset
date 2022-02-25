@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,tempest.services.disqus.com
   - DOMAIN-SUFFIX,vortex.data.microsoft.com
   - DOMAIN-SUFFIX,googleads.g.doubleclick.net
+  - DOMAIN-SUFFIX,analytics.map.qq.com
