@@ -25,3 +25,4 @@ payload:
   - DOMAIN-SUFFIX,static.addtoany.com
   - DOMAIN-SUFFIX,adservice.google.com.hk
   - DOMAIN-SUFFIX,umwatson.events.data.microsoft.com
+  - DOMAIN-SUFFIX,activity.windows.com
