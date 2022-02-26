@@ -23,3 +23,4 @@ payload:
   - DOMAIN-SUFFIX,syndication.twitter.com
   - DOMAIN-SUFFIX,mon.tiktokv.com
   - DOMAIN-SUFFIX,static.addtoany.com
+  - DOMAIN-SUFFIX,adservice.google.com.hk
