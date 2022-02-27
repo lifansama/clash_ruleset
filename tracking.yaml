@@ -26,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,adservice.google.com.hk
   - DOMAIN-SUFFIX,umwatson.events.data.microsoft.com
   - DOMAIN-SUFFIX,activity.windows.com
+  - DOMAIN-SUFFIX,device-metrics-us.amazon.com
