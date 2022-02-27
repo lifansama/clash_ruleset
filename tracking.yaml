@@ -32,3 +32,5 @@ payload:
   - DOMAIN-SUFFIX,unagi.amazon.com
   - DOMAIN-SUFFIX,unagi-na.amazon.com
   - DOMAIN-SUFFIX,analytics.twitter.com
+  - DOMAIN-SUFFIX,athena.iubenda.com
+  - DOMAIN-SUFFIX,consent.iubenda.com
