@@ -31,3 +31,4 @@ payload:
   - DOMAIN-SUFFIX,sdk.privacy-center.org
   - DOMAIN-SUFFIX,unagi.amazon.com
   - DOMAIN-SUFFIX,unagi-na.amazon.com
+  - DOMAIN-SUFFIX,analytics.twitter.com
