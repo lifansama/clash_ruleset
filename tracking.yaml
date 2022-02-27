@@ -28,3 +28,6 @@ payload:
   - DOMAIN-SUFFIX,activity.windows.com
   - DOMAIN-SUFFIX,device-metrics-us.amazon.com
   - DOMAIN-SUFFIX,cdn.iubenda.com
+  - DOMAIN-SUFFIX,sdk.privacy-center.org
+  - DOMAIN-SUFFIX,unagi.amazon.com
+  - DOMAIN-SUFFIX,unagi-na.amazon.com
